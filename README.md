@@ -1,11 +1,11 @@
 • API Testing Project written using REST Assured and POM Design Pattern
 
 • Follow these Steps to Run Test on your Machine:
-1) Clone Repository
-2) Open Project using IDE
-3) Update Maven Project
-4) Install TestNg for your IDE if you don't have it
-5) Run Test
+1) Clone the Repository
+2) Open the Project in an IDE
+3) Update the Maven Project
+4) Install TestNG (if not already installed)
+5) Execute the Test
 
 •Library API Documentation:
 ```
