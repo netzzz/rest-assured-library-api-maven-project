@@ -19,5 +19,5 @@ public class LibraryApiTests {
 		LibraryApiTestMethods.validateGetBookByAuthor(addedBookAuthor);
 				
 		LibraryApiTestMethods.validateDeleteBook(addedBookId);
-	}
+	}	
 }
