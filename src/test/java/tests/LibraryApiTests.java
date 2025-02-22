@@ -20,6 +20,4 @@ public class LibraryApiTests {
 				
 		LibraryApiTestMethods.validateDeleteBook(addedBookId);
 	}
-	
-
 }
