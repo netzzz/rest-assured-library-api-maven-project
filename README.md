@@ -1,6 +1,11 @@
-API Testing Project written using REST Assured and POM Design Pattern
+• API Testing Project written using REST Assured and POM Design Pattern
 
-Library API Documentation:
+• Follow these steps to run tests on your machine:
+1) Clone Repository
+2) Open Project using IDE
+3) Update Maven Project
+
+•Library API Documentation:
 ```
 BaseURI : http://216.10.245.166
  
