@@ -1,4 +1,4 @@
-• API Testing Project written using REST Assured and POM Design Pattern
+• Library API Testing Project written using REST Assured and POM Design Pattern
 
 • Follow these Steps to Run Test on your Machine:
 1) Clone the Repository
