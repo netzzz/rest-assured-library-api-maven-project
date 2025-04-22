@@ -95,7 +95,7 @@ public class LibraryApiTestMethods {
 	// --------------------------------------------
 	// Response Validation Methods
 	
-	public static void responseStatusCodeValidation(String requestName, Response response, 
+	public static void validateResponseStatusCode(String requestName, Response response, 
 			HttpResponseStatusCodes responseStatusCode) {
 		Assert.assertEquals(response.getStatusCode(), responseStatusCode.getCode(),
 				String.format("%s Response Status Code is %d as Not Expected", requestName, response.getStatusCode()));
