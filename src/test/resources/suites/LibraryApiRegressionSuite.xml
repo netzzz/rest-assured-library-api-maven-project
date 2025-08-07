@@ -1,11 +1,11 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="LibraryApiRegressionSuite" >
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LibraryApiRegressionSuite">
 	<listeners>
-        <listener class-name="helperfunctions.TestListener"/>
-    </listeners>
-    <test name="LibraryApiRegression">
-        <classes>
-            <class name="tests.LibraryApiTests"/>
-        </classes>
-    </test>
+		<listener class-name="helperfunctions.TestListener" />
+	</listeners>
+	<test name="LibraryApiRegression">
+		<classes>
+			<class name="tests.LibraryApiTests" />
+		</classes>
+	</test>
 </suite>
